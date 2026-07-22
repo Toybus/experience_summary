@@ -57,6 +57,6 @@ Once near a natural midpoint—after more than one priority line is clear while 
 | Treating a better manual result as proof that a Bot can improve | Check whether the compared inputs, goals, constraints, and measures match |
 | Giving candidate answers when the author first says “综合判断” | Ask for an example or another phrasing first; offer weak hypotheses only after a second stall |
 | Restating a polished method after one answer | Offer a tentative reflection |
-| Rephrasing “why” repeatedly | Offer recognition hypotheses and skip |
+| Rephrasing “why” repeatedly | First change the question form or ask for an example; after a continued stall, offer 2–3 weak hypotheses and a skip path |
 | Reporting rigid numeric progress | Use a brief natural transition |
 | Filling every maturity field | Preserve the clearest supported state |
