@@ -11,15 +11,15 @@ Depth comes from three parts checking one another: how the author organized the 
 
 ## Prerequisites
 
-Have the complete source material available, including conclusion-bearing embedded material, and an author who can confirm or revise candidate experiences.
+Read all accessible conclusion-bearing source and embedded material. If material is inaccessible, follow `Missing content`: record which interpretation it may affect, continue only with independent evidence, and keep the affected experience unresolved until author confirmation. Have an author who can confirm or revise candidate experiences.
 
 ## Workflow
 
-1. Read the complete source and any conclusion-bearing embedded material, including the author’s thinking structure rather than only its conclusions. Use [material-reading.md](references/material-reading.md).
+1. Read all accessible conclusion-bearing source and embedded material, including the author’s thinking structure rather than only its conclusions. Use [material-reading.md](references/material-reading.md).
 2. Build a concise, revisable map of candidate experiences from source signals, author-nominated points, and external feedback.
 3. Interview one question at a time. Follow the author’s current thought, return to the map as needed, fill the largest depth gap, and offer a fair, gentle challenge where it can test a key claim. Use [interviewing.md](references/interviewing.md).
 4. Form each supported experience as a three-part asset: the author’s underlying idea, its real judgment in the source, and a bounded use for readers doing similar work. Keep unsupported parts unresolved.
-5. Produce the author experience asset and source-coupled sharing content using [output-contracts.md](references/output-contracts.md). Suggest closure at useful saturation; the author decides when to stop.
+5. At useful saturation, suggest closure. After the author confirms stopping, produce the author experience asset and source-coupled sharing content using [output-contracts.md](references/output-contracts.md); the author retains the final decision to stop.
 
 ## Boundaries
 
