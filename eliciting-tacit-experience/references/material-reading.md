@@ -12,6 +12,14 @@
 
 When `lark-cli` is available, read its version-matched embedded documentation skill before choosing commands. Use the document-reading workflow for body and outline, then route embedded sheets, whiteboards, and other objects to the matching read-only workflow. Prefer section reads for long documents, but cover every key conclusion.
 
+## Embedded whiteboards and diagrams
+
+For a whiteboard or diagram that informs a conclusion, first state the judgment question it helps answer. Then read the author's organization before treating its nodes as a list: note groups or lanes, sequence, arrows, content spanning stages, and unresolved notes. If a thumbnail is not readable, read the original nodes. Afterward, record what this organization lets the author see that isolated notes would not—for example, that a user's stated request is an outcome rather than the blockage, so the diagnosis belongs in the full process.
+
+## Sheets and tables
+
+Read a table in depth only when it can change or test the current judgment. When it only repeats an established conclusion, record its role rather than re-confirming the same result.
+
 ## Relevance rule
 
 Do not download every decorative image or attachment. Read an object when omitting it could change understanding of the evidence, reasoning, architecture, trade-off, or conclusion.
