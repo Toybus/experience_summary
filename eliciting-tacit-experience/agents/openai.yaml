@@ -1,0 +1,4 @@
+interface:
+  display_name: "隐性经验成型"
+  short_description: "从优秀工作文档中挖掘隐性经验并整理成可分享的团队内容"
+  default_prompt: "请使用 $eliciting-tacit-experience 阅读我的工作文档，通过访谈梳理隐性经验，并把经验嵌入原文分享内容。"
