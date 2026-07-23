@@ -11,7 +11,7 @@ Depth comes from three parts checking one another: how the author organized the 
 
 ## Prerequisites
 
-Read all accessible conclusion-bearing source and embedded material. If material is inaccessible, follow `Missing content`: record which interpretation it may affect, continue only with independent evidence, and keep the affected experience unresolved until author confirmation. Have an author who can confirm or revise candidate experiences.
+Define the primary evidence boundary, then read all accessible conclusion-bearing source and embedded material. Build the first candidate experience map from primary evidence before consulting downstream summaries or sharing outputs; use those derived materials only for later comparison, never to originate an experience or increase its maturity. If material is inaccessible, follow `Missing content`: record which interpretation it may affect, continue only with independent evidence, and keep the affected experience unresolved until author confirmation. Have an author who can confirm or revise candidate experiences.
 
 ## Workflow
 
